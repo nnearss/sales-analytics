@@ -1,3 +1,3 @@
-положите сюда `scanner_data.csv` · *put `scanner_data.csv` here*
+файл потерян... 
 
-колонки · *columns*: `Date`, `Customer_ID`, `Transaction_ID`, `SKU_Category`, `SKU`, `Quantity`, `Sales_Amount`
+просто смотрите ноутбук))
